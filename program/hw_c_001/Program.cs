@@ -1,4 +1,4 @@
-﻿// home work c#
+﻿// Задача 2
 Console.Write("Введите первое число");
 int a = Convert.ToInt32(Console.ReadLine());
 

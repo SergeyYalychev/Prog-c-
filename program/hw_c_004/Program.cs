@@ -1,4 +1,4 @@
-﻿// задача №8 
+﻿// задача 8 
 Console.WriteLine("Введите число");
 int i = 1;
 int n = Convert.ToInt32(Console.ReadLine());
