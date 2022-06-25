@@ -1,12 +1,9 @@
 ﻿// задача №8 
 Console.WriteLine("Введите число");
-int i = Convert.ToInt32(Console.ReadLine());
+int i = 1;
 int n = Convert.ToInt32(Console.ReadLine());
-int num =Convert.ToInt32(Console.ReadLine());
 
-
-
-for (i = n; i >=n; i++)
+for (i = 1; i <=n; i++)
 {
     if ( i % 2 ==0)
 
